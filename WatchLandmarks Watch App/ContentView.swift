@@ -1,21 +1,21 @@
 //
 //  ContentView.swift
-//  Landmarks
+//  WatchLandmarks Watch App
 //
-//  Created by Samuel Wahome on 10/09/2022.
+//  Created by Samuel Wahome on 17/09/2022.
 //
 
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        LandmarkList()
     }
 }
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
+            .environmentObject(ModelData())
     }
 }

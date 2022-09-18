@@ -1,0 +1,194 @@
+[
+    {
+        "name": "Turtle Rock",
+        "category": "Rivers",
+        "city": "Twentynine Palms",
+        "state": "California",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Joshua Tree National Park",
+        "coordinates": {
+            "longitude": -116.166868,
+            "latitude": 34.011286
+        },
+        "description": "Turtle Rock, ”Melkhii Khad”, is a surprising granitic formation, 24 metres (79 feet) high, whose form reminds of a turtle. Its old name was Mungut Khad. Located at the foothills of a mountain covered of pines, this rocky formation is incontestably a photo opportunity while you’re on the road for Terelj. There, it’s possible to rent horses, and during the summer, you can also find souvenirs’ sellers. It’s a good starting point for a small walk (about one hour) that will lead you until the centre of meditation of Aryaval or in the most remote places of the park.",
+        "imageName": "turtlerock"
+    },
+    {
+        "name": "Silver Salmon Creek",
+        "category": "Lakes",
+        "city": "Port Alsworth",
+        "state": "Alaska",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Lake Clark National Park and Preserve",
+        "coordinates": {
+            "longitude": -152.665167,
+            "latitude": 59.980167
+        },
+        "description": "Silver Salmon Creek Lodge is a premier vacation destination for wildlife photography, world-class sport fishing and Alaska bear viewing. Under the same management since 1983, hosts David and Joanne Coray welcome all national and international guests. The lodge offers its patrons a sense of Alaska adventure with all of the upscale amenities as well. The lodge has developed into one of the premier sites in Alaska to view Brown Bears in their natural environment. Our knowledgeable guides assist our guests in getting properly positioned for excellent viewing, understand behavioral nuances and gain key information about bear biology. Bear viewing services are offered from June through mid-September, and we also offer an overnight bear viewing package.",
+        "imageName": "silversalmoncreek"
+    },
+    {
+        "name": "Chilkoot Trail",
+        "category": "Mountains",
+        "city": "Skagway",
+        "state": "Alaska",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Klondike Gold Rush National Historical Park",
+        "coordinates": {
+            "longitude": -135.334571,
+            "latitude": 59.560551
+        },
+        "description": "The Chilkoot Trail is a 33-mile (53 km) trail through the Coast Mountains that leads from Dyea, Alaska, in the United States, to Bennett, British Columbia, in Canada. It was a major access route from the coast to Yukon goldfields in the late 1890s. The trail became obsolete in 1899 when a railway was built from Dyea's neighbor port Skagway along the parallel White Pass trail.[4] The Chilkoot Trail and Dyea Site was designated a U.S. National Historic Landmark in 1978. In 1987, the trail was designated a National Historic Site of Canada.[5] In 1998, the centennial of the gold rush, Chilkoot Trail National Historic Site in British Columbia joined with the U.S. park to create the Klondike Gold Rush National Historical Park.",
+        "imageName": "chilkoottrail"
+    },
+    {
+        "name": "St. Mary Lake",
+        "category": "Lakes",
+        "city": "Browning",
+        "state": "Montana",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Glacier National Park",
+        "coordinates": {
+            "longitude": -113.536248,
+            "latitude": 48.69423
+        },
+        "description": "Saint Mary Lake is the second-largest lake in Glacier National Park, in the U.S. state of Montana. Located on the east side of the park, Going-to-the-Sun Road parallels the lake along its north shore. At an altitude of 4,484 feet (1,367 m), Saint Mary Lake's waters are colder and lie almost 1,500 feet (460 m) higher in altitude than Lake McDonald, the largest lake in the park, which is located on the west side of the Continental Divide. Here, the great plains end and the Rocky Mountains begin in an abrupt 5,000-foot (1,500 m) altitude change, with Little Chief Mountain posing a formidable southern flank above the west end of the lake. The lake is 9.9 miles (15.9 km) long and 300 feet (91 m) deep with a surface area of 3,923 acres (15.88 km2). The waters of the lake rarely rise above 50 °F (10 °C) and are home to various species of trout. During the winter, the lake is often frozen over with ice up to 4 feet (1.2 m) thick.",
+        "imageName": "stmarylake"
+    },
+    {
+        "name": "Twin Lake",
+        "category": "Lakes",
+        "city": "Twin Lakes",
+        "state": "Alaska",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Lake Clark National Park and Preserve",
+        "coordinates": {
+            "longitude": -153.849883,
+            "latitude": 60.641684
+        },
+        "description": "The twin lakes area is very scenic, with steep and intensively farmed hills surrounding the pristine dark blue waters. They offer magnificent views over the whole of the Virunga Volcanoes (weather permitting). Walking and birdwatching are possible in the hills and at some points around the lakes, but due to the very steep character of the landscape most visitors prefer to drive up the small track leading to a lodge situated on the top of the hill overlooking both lakes to enjoy the scenery and have a refreshing drink. At Lake Ruhondo visitors can hire a boat to go on a scenic lake cruise and have an opportunity to spot many waterbirds such as herons, kingfishers, cormorants, darters, hammerkops, stalks, cranes etc. A pair of binoculars and a bird book is handy. The twin lakes are located about an hour by car from Sabyinyo Silverback Lodge. They can be reached by driving on good tarmac roads south to Musanze and then back north towards Cyanika or alternatively along a picturesque small dirt road that follows the contour of the Volcanoes Range.",
+        "imageName": "twinlake"
+    },
+    {
+        "name": "Lake McDonald",
+        "category": "Mountains",
+        "city": "West Glacier",
+        "state": "Montana",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Glacier National Park",
+        "coordinates": {
+            "longitude": -113.934831,
+            "latitude": 48.56002
+        },
+        "description": "Lake McDonald is the largest lake in Glacier National Park. It is located at 48°35′N 113°55′W in Flathead County in the U.S. state of Montana. Lake McDonald is approximately 10 miles (16 km) long, and over a mile (1.6 km) wide and 472 feet (130 m) deep, filling a valley formed by a combination of erosion and glacial activity. Lake McDonald lies at an elevation of 3,153 feet (961 m) and is on the west side of the Continental Divide. Going-to-the-Sun Road parallels the lake along its southern shoreline. The surface area of the lake is 6,823 acres (27.6 km2). The lake is home to numerous native species of trout, and other game fish. Catchable species include: westslope cutthroat trout, rainbow trout, bull trout (char), lake trout (char), Lake Superior whitefish, mountain whitefish, kokanee salmon (landlocked sockeye), and suckers. However, the lake is nutrient-poor and is not considered a prime fishing destination. Grizzly bears, black bear, moose, and mule deer are found in many places near the lake but are most common on the north shore. The lake is surrounded by a dense coniferous forest dominated by various species of spruce, fir, and larch.",
+        "imageName": "lakemcdonald"
+    },
+    {
+        "name": "Charley Rivers",
+        "category": "Rivers",
+        "city": "Eaking",
+        "state": "Alaska",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Charley Rivers National Preserve",
+        "coordinates": {
+            "longitude": -143.122586,
+            "latitude": 65.350021
+        },
+        "description": "The Charley River is an 88-mile (142 km) tributary of the Yukon River in the U.S. state of Alaska.[1] Flowing generally northeast from the Mertie Mountains (named after geologist John Beaver Mertie, Jr.) in the northeastern part of the state, the river lies entirely within Yukon–Charley Rivers National Preserve.[3] The Charley River enters the larger river downstream and 55 miles (89 km) northwest of Eagle. In 1980, the Charley River and all of its main tributaries became part of the National Wild and Scenic Rivers System.[4] A total of 208 miles (335 km) was declared wild along the entire main stem as well as Copper, Bonanza, Hosford, Derwent, Flat-Orthmer, Crescent, and Moraine creeks.",
+        "imageName": "charleyrivers"
+    },
+    {
+        "name": "Icy Bay",
+        "category": "Mountains",
+        "city": "Icy Bay",
+        "state": "Alaska",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Wrangell-St. Elias National Park and Preserve",
+        "coordinates": {
+            "longitude": -141.518167,
+            "latitude": 60.089917
+        },
+        "description": "Since 1900, several huge tidewater glaciers have retreated to form Icy Bay on the coast of Wrangell-St. Elias National Park and Preserve. The bay was formed by the rapid retreat of the Guyot, Yahtse, and Tyndall Glaciers. The protected, blue waters surrounded by spectacular glacial scenery and an abundance of wildlife are ideal for sea kayaking. Most kayakers access Icy Bay by chartering a small bush plane to drop them off at Kageet Point on the eastern edge of Icy Bay or Pt. Riou, located on Chugach Alaska Native Corporation land southeast of Icy Bay. Before flying into Pt. Riou, visitors should request permission by writing Chugach Alaska Corporation, 3800 Centerpoint Drive, Suite 1200, Anchorage, Alaska 99503. Access to Icy Bay is restricted to small bush planes only, so many parties use collapsible kayaks. There are air taxis in Yakutat who are approved to operate in the park, which you can find by visiting kayaking services. These air taxis fly planes that are capable of landing on the bush strip at Kageet Point, which is the most common point of access for Icy Bay kayakers. It's a raised beach strip, and makes for a lovely initial camping spot while you set up your gear. There are many bears throughout the area, but those using Icy Bay before you have been diligent in practicing proper food storage techniques and there have been no adverse human-bear interactions in recent years. Exercise proper caution as you would in bear country throughout Alaska.",
+        "imageName": "icybay"
+    },
+    {
+        "name": "Rainbow Lake",
+        "category": "Lakes",
+        "city": "Willow",
+        "state": "Alaska",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "State Recreation Area",
+        "coordinates": {
+            "longitude": -150.086103,
+            "latitude": 61.694334
+        },
+        "description": "There are a few views of the valley across to Whistler Mountain, Blackcomb Mountain, and Wedge Mountain.  Few views, though fantastic.  Rainbow Lake itself is in a gorgeous alpine valley with branching trails that extend further beyond the lake in at least three directions.  Along with the waterfalls, bridge crossings and valley views, the Rainbow Trail passes through deep forest with some impressively huge trees.  Plenty of birds can be heard and seen along the trail and though black bears frequent the area, they are infrequently spotted due to their migration down into the valley.  Cougars are also known to roam around this area, though also rarely spotted.  As recently as 2014 signs of cougar activity were identified on the Flank Trail near where it branches off from the Rainbow Trail.  The Rainbow Trail has a small side trail that takes you to Rainbow Falls. Not far from the trailhead, the small Rainbow Falls sign is easily missed.  It is located about five minutes into the Rainbow Trail and your best bet to find it is to keep bearing right along the first couple trail branches. Don't worry about getting lost here though as all the trails reconnect further along the trail when you briefly exit the forest at the water treatment building. Unfortunately, Rainbow Lake is the water supply for Whistler, so you cannot swim, fish or camp near the lake. There is decent camping available nearby at Hanging Lake as well as Beverley Lake in the direction of Rainbow Mountain.",
+        "imageName": "rainbowlake"
+    },
+    {
+        "name": "Hidden Lake",
+        "category": "Lakes",
+        "city": "Newhalem",
+        "state": "Washington",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "North Cascades National Park",
+        "coordinates": {
+            "longitude": -121.17799,
+            "latitude": 48.495442
+        },
+        "description": "The trail climbs for 1 mile (1.6 km) through the forest before crossing Sibley Creek and entering the creek basin. Here the trail switchbacks moderately through avalanche and flower meadows thick with cow parsnip, false hellebore, fireweed, and many other wildflowers in season. Be sure to stay on the main trail to spare the meadows any additional erosion. Mudslides or trail slumps are not uncommon. As the trail crosses Sibley Creek again at a higher contour, look back down the valley for views of the icy volcanic dome of Mt. Baker to the northwest. Watch for Ptarmigan and water pipit in the subalpine and near Sibley Creek. Observe migrating hawks and eagles near Sibley Pass during autumn. Listen for the piercing whistle of marmots sunning on rocky slopes. Now the trail begins a long, upward, open traverse through meadows, rocky slopes, and communities of heather and huckleberry, interspersed with small creeklets. Look back frequently as a sea of peaks begins to rise behind you. As the trail approaches the base of the rocky summit, a few small tarns and snowmelt provide a last water source for backpackers. During the short summer season, the meadows below the lookout are alive with color and sound. At this elevation, summers are short and intense. Watermelon snow, a type of green algae, colors the snow fields red. Look for glacier lilies blooming through snow edges.",
+        "imageName": "hiddenlake"
+    },
+    {
+        "name": "Chincoteague",
+        "category": "Rivers",
+        "city": "Chincoteague",
+        "state": "Virginia",
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Chincoteague National Wildlife Refuge",
+        "coordinates": {
+            "longitude": -75.383212,
+            "latitude": 37.91531
+        },
+        "description": "Located on the Indigenous homelands of the Pocomoke and Occohannock people, Chincoteague National Wildlife Refuge protects beach, dune, marsh, and maritime forest habitats. Originally established in 1943 to protect migratory birds, this refuge is now one of the most visited in the United States. This gem of Eastern Virginia is a birder's paradise, as well as the home of cultural treasures such as Assateague Lighthouse and the world famous Chincoteague ponies.",
+        "imageName": "chincoteague"
+    },
+    {
+        "name": "Lake Umbagog",
+        "category": "Lakes",
+        "city": "Errol",
+        "state": "New Hampshire",
+        "id": 1012,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Umbagog National Wildlife Refuge",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "description": "Umbagog Lake State Park, is one of the more recently acquired parks in the state system. The Division began managing the park in 1998. The park includes a base park campground with 27 sites with electrical and water hook-ups available, 2 cabins, 33 remote campsites and 4 remote cabins in isolated locations around Umbagog Lake accessible only by boat. The park offers a beach area for swimming, excellent fishing, wildlife viewing, and boating. Canoe and kayak,rentals are offered, as well as transportation for remote site campers. A boat launch and fuel sales are available, as well as a park store. Wildlife viewing includes a variety of birds, deer, and moose. ",
+        "imageName": "umbagog"
+    }
+]
